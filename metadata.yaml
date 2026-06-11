@@ -1,0 +1,5 @@
+homepage: "https://github.com/digitalanalytix/openai-measurment-pixel"
+documentation: "https://developers.openai.com/ads/measurement-pixel"
+versions:
+  - sha:
+    changeNotes: "Initial release — OpenAI Measurement Pixel with Consent Mode v2, all standard events, custom events, user identity matching, and SHA-256 auto-hashing."
